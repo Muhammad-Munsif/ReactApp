@@ -3,14 +3,14 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import ControlledComponent from './ControlledComponent'
-import Card from './Card'
+import SpreadOpertor from './SpreadOperator'
 
 function App() {
 
   return (
     <>
     <ControlledComponent />
-    <Card />
+    <SpreadOpertor />
     </>
   )
 }
