@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import ControlledComponent from './ControlledComponent'
 import SpreadOpertor from './SpreadOperator'
+import SpreadObject from './SpreadObject'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
     <>
     <ControlledComponent />
     <SpreadOpertor />
+    <SpreadObject />
     </>
   )
 }
