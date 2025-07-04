@@ -11,8 +11,8 @@ function App() {
   return (
     <>
     <ControlledComponent />
-    <SpreadOpertor />
-    <SpreadObject />
+    {/* <SpreadOpertor /> */}
+    {/* <SpreadObject /> */}
     </>
   )
 }
